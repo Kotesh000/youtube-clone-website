@@ -23,7 +23,6 @@ A responsive and modern YouTube-like video streaming front-end built with HTML a
 
 ## 📂 Folder Structure
 
-
 ## 🚀 Hosting
 
 This website is hosted on **GitHub Pages** and linked to a custom domain:  
