@@ -4,7 +4,7 @@ A responsive and modern YouTube-like video streaming front-end built with HTML a
 
 ## 📌 Live Demo
 
-🌐 [Visit the Website](www.youtube-conehtml.netlify.app)
+🌐 [Visit the Website](https://youtube-conehtml.netlify.app/)
 
 ## 📁 Features
 
@@ -27,7 +27,7 @@ A responsive and modern YouTube-like video streaming front-end built with HTML a
 ## 🚀 Hosting
 
 This website is hosted on **GitHub Pages** and linked to a custom domain:  
-📍 [www.youtube-clone.me](www.youtube-conehtml.netlify.app)
+📍 [www.youtube-clone.me](https://youtube-conehtml.netlify.app/)
 
 ## 🌐 Domain Setup
 
